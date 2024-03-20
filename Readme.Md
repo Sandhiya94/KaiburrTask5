@@ -7,7 +7,7 @@ In this task, we performed text classification on the consumer complaint dataset
 - 2: Consumer Loan
 - 3: Mortgage
 
-#### Steps to be Followed:
+#### Steps Involved:
 
 1. **Explanatory Data Analysis and Feature Engineering**:
    - Loaded the dataset `complaints.csv` containing consumer complaints.
