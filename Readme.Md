@@ -16,8 +16,7 @@ In this task, we performed text classification on the consumer complaint dataset
    - Selected relevant features for classification, including 'Consumer complaint narrative' and 'Product'.
    - Handled missing values by dropping rows with NaN values in the selected features.
 2. **Text Pre-Processing**:
-   - Pre-processed the text data by removing punctuation, stopwords, and other noise.
-   - Tokenized the text into words and sentences.
+   - Pre-processed the text data by removing stopwords.
    - Applied feature extraction techniques such as TF-IDF (Term Frequency-Inverse Document Frequency) to convert text data into numerical features.
    - Performed feature selection using SelectKBest with chi-squared test to select the top features.
 3. **Selection of Multi-Classification Model** **and comparison of models**:
